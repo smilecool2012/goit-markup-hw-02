@@ -65,11 +65,13 @@ a {
 }
 
 .mail-content {
+    font-weight: 400;
     font-style: normal;
     color: #434455;
 }
 
 .phone-content {
+    font-weight: 400;
     font-style: normal;
     color: #434455;
 }
@@ -93,7 +95,6 @@ a {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-
     color: #FFFFFF;
 }
 
